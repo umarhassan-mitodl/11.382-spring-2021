@@ -5,6 +5,8 @@ description: "An anonymous Harvard graduate student's case study \"The Confedera
 file: /courses/11-382-water-diplomacy-spring-2021/635f627c0ce1dd461e41539eea94aeb8_MIT11_382s21_anon_case_study.pdf
 file_size: 548187
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

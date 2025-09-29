@@ -2,6 +2,8 @@
 content_type: page
 description: This section presents a schedule of course topics and assigned readings
   for 11.382 Water Diplomacy
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

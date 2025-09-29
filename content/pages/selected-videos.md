@@ -2,6 +2,8 @@
 content_type: page
 description: This section presents a selection of lecture and student presentation
   videos from 11.382 Water Diplomacy.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Selected Videos
