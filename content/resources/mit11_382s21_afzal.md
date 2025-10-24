@@ -5,8 +5,6 @@ description: "Husnain Afzal's \"Indus Water Treaty Between Pakistan and India of
 file: /courses/11-382-water-diplomacy-spring-2021/1b7baf844e3d5d65b3bb88d603ddcb21_MIT11_382s21_Afzal.pdf
 file_size: 481098
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-382-water-diplomacy-spring-2021/f8abd6f845c252cb9b333c3119ebaf41_kAeDRfk6A9w.vtt
 file_size: 108151
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
