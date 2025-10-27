@@ -60,7 +60,7 @@ _Reflection 2_
 Case Study
 ----------
 
-Each student will write a 12–15 page (single-spaced) case study of a water conflict. Paper topics are due in week 4. A draft of the case study is due in week 8. This draft will not be graded, but will be reviewed in the hope that the final version of the case study (that will be published in the [AquaPedia](https://aquapedia.waterdiplomacy.org/wiki/index.php?title=Main_Page) case study database at [waterdiplomacy.org](http://waterdiplomacy.org)) can be as strong as possible. The final case study, which is due in week 12, will count for 35% of the final grade. Late submissions will not be accepted.
+Each student will write a 12–15 page (single-spaced) case study of a water conflict. Paper topics are due in week 4. A draft of the case study is due in week 8. This draft will not be graded, but will be reviewed in the hope that the final version of the case study (that will be published in the {{% resource_link "4cfb747f-1ddf-49e3-b0bf-81d299011dc4" "AquaPedia" %}} case study database at {{% resource_link "3f96350b-8060-4f6a-9bdb-f90bee5b9bc6" "waterdiplomacy.org" %}}) can be as strong as possible. The final case study, which is due in week 12, will count for 35% of the final grade. Late submissions will not be accepted.
 
 Examples of student-written case studies from spring 2021:
 
